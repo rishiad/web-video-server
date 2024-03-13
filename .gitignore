@@ -1,0 +1,6 @@
+.cproject
+.project
+log/
+install/
+build/
+.DS_Store
